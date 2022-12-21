@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js, Node.js, TypeScript and other front-end / fullstack related technologies
 - 📫 If you have anything to say, you can reach me through mail n1v0xin.dev@gmail.com or telegram [@n1v0xin](https://t.me/n1v0xin)
 
-Most of my repos were mirrored from my own self-hosted git service, so most commits' dates were reset due to some stuff.
+Most of my repos were mirrored from my own self-hosted git service, so most commits' dates were reset due to some stuff.  
 I'd fix it one day, if I wouldn't be so busy. Or lazy.
 
 <!---
