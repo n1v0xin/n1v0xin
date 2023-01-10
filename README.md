@@ -16,6 +16,6 @@ Here's what I can do and work with, my actual skills:
 
 I'm looking for opportunities to participate in development of some cool projects or even implement your own ideas from scratch (currently just me as frontend developer, however I'm willing to involve more developers, it depends on your needs).  
 I'm ready to discuss your project, conditions etc, I do make sure all development process will be transparent and clear.  
-I'm fine working both hour or task-based payment. Currently I'm able to recieve payments only through crypto. Part of the money will be sent to humanitarian aid.  
+I'm fine working both hour or task-based payment. Currently I'm able to receive payments only through crypto. Part of the money will be sent to humanitarian aid.  
 You can reach me by contacts above.  
 I can provide you with a list of my commercial cases upon request.
