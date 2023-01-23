@@ -11,3 +11,6 @@ Skills:
 - Ant Design, Bootstrap
 - PHP, Twig, handlebars.js
 - RESTful API, geoJSON, socket.io
+
+
+Having some plans to expand this account, e.g. with last public projects in this description, or restoring some old private repos and other stuff, idk, do I have enough time and will to do something beyond my responsibilities on current job and improve my github? lol no ig, but if I leave this text written here, then maybe I do something about it one day.
